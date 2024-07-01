@@ -1,7 +1,7 @@
 # Proyecto_5
  Este proyecto desarrolla una aplicación web en Render, para visualizar gráficos sobre datos de anuncios vehiculares, con el uso de las librería streamlit, se genera facilmente la interfaz en render y con plotly-express se realizan los gráficos.
 
- La página se divide en 3 secciones:
+Al abrir el enlace podrás interactuar con las casillas, botones y baras de selección para realizar las siguientes acciones:
  - Presentar los datos según la condición, para incluir o no los modelos con más de mil anuncios, utilizando una casilla de selección
  - Generar un gráfico, puede ser de disperción o un histograma según la casilla seleccionada y ejecutandolo con un botón
  - Presentar un gráfico de barras (interactivo gracias a streamlit) con los tipos de vehículos por marca
